@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Missy\Desktop\sunshine Game\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Missy\Desktop\sunshine Game\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre1.8.0_162
+Check launcher:	C:\Users\Missy\Desktop\sunshine Game\bin\jre1.8.0_162\bin\javaw.exe (OK)
+Launcher:	C:\Users\Missy\Desktop\sunshine Game\bin\jre1.8.0_162\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Missy\Desktop\sunshine Game\game.exe"
+Args length:	52/32768 chars
+Exit code:	0
